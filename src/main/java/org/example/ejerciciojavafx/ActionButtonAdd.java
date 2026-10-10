@@ -19,6 +19,7 @@ public class ActionButtonAdd {
             label.setText("");
             lista.getItems().add(text.getText());
             text.setText("");
+
         }
     }
 }
